@@ -1,0 +1,116 @@
+
+.art-link.art-color-link {
+    color: #ff5c6c
+  }
+  
+  .art-link.art-color-link:hover {
+    color: #ff5c6c;
+  }
+  .art-btn {
+    background: #ff5c6c;
+  }
+  
+  blockquote {
+    background: #ff5c6c;
+  }
+  
+  .art-custom-list li:before {
+    border: solid 2px #ff5c6c;
+  }
+  
+  .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp {
+    background: #ff5c6c;
+  }
+  
+  .art-info-bar .art-name:hover a {
+    color: #ff5c6c
+  }
+  
+  .art-info-bar .art-knowledge-list li:before {
+    color: #ff5c6c;
+  }
+  
+  .art-menu-bar .art-language-change li.art-active-lang {
+    background-color: #ff5c6c;
+  }
+  
+  .art-code i {
+    color: #ff5c6c;
+  }
+  
+  .art-symbol {
+    color: #ff5c6c;
+  }
+
+  .art-counter-frame .art-counter-box .art-counter {
+    color: #ff5c6c;
+  }
+  
+  .art-counter-frame .art-counter-box .art-counter-plus .art-symbol {
+    color: #ff5c6c;
+  }
+  
+  .art-price.art-popular-price:before {
+    background: #ff5c6c
+  }
+  
+  .art-price .art-price-body .art-price-cost .art-number {
+    color: #ff5c6c;
+  }
+  
+  .art-price .art-price-body .art-price-list li:before {
+    color: #ff5c6c
+  }
+  
+  .art-price .art-price-body .art-price-list li.art-empty-item:before {
+    color: #ff5c6c
+  }
+  
+  .art-testimonial .art-testimonial-footer .art-star-rate {
+    color: #ff5c6c
+  }
+  
+  .art-slider-navigation .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: #ff5c6c;
+  }
+  
+  .fancybox-progress {
+    background: #ff5c6c;
+  }
+  
+  .fancybox-thumbs__list a:before {
+    border-color: #ff5c6c;
+  }
+  
+  .art-timeline .art-timeline-item .art-timeline-mark {
+    border: solid 3px #ff5c6c;
+  }
+  
+  .art-form-field textarea.art-active {
+    border-color: #ff5c6c;
+  }
+  
+  .art-form-field textarea:focus {
+    border-color: #ff5c6c;
+  }
+  
+  .art-contact-form .art-input.art-active+label, .art-contact-form .art-input:focus+label {
+    background: #ff5c6c;
+  }
+  
+  .art-pagination .art-pagination-center a.art-active-pag {
+    color: #ff5c6c;
+  }
+  
+  .art-preloader-load path:last-child {
+    stroke: #ff5c6c;
+  }
+  
+  .art-line-progress path:last-child {
+    stroke: #ff5c6c;
+  }
+  
+  .art-cirkle-progress path:last-child {
+    stroke: #ff5c6c;
+  }
+  
